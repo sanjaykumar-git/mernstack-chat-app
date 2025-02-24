@@ -1,6 +1,9 @@
 # ✨ Full Stack Realtime Chat App ✨
 ![Demo App](/frontend/public/Chat%20App.png)
 
+link for deployed app:
+https://mernstack-chat-app-1.onrender.com/
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
