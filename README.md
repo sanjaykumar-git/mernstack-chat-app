@@ -1,5 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
-
+![Demo App](/frontend/public/Chat%20App.png)
 
 Highlights:
 
